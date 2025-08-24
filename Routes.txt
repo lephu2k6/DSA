@@ -1,0 +1,169 @@
+Giai đoạn 1: Nền tảng & Tư duy (1-2 tuần)
+Mục tiêu: Làm quen với độ phức tạp thuật toán và ngôn ngữ lập trình bạn sẽ dùng.
+
+Độ phức tạp thuật toán (Big-O Notation):
+
+Hiểu tại sao cần đánh giá hiệu năng thuật toán.
+
+Hiểu và phân biệt được O(1), O(log n), O(n), O(n log n), O(n²), O(2^n), O(n!).
+
+Biết cách tính độ phức tạp thời gian và bộ nhớ của một đoạn code.
+
+Chọn ngôn ngữ lập trình:
+
+Chọn một ngôn ngữ bạn thông thạo nhất (C++, Python, hoặc Java là những lựa chọn tuyệt vời vì có sẵn nhiều thư viện và tài liệu).
+
+Làm chủ cú pháp cơ bản, các cấu trúc điều khiển (vòng lặp, rẽ nhánh).
+
+Tài nguyên: Sách "Cracking the Coding Interview" (Chương 1 & 2), các bài viết trên GeeksforGeeks về Big-O.
+
+Giai đoạn 2: Các Cấu trúc Dữ liệu & Giải thuật Cốt lõi (6-8 tuần)
+Đây là giai đoạn quan trọng nhất. Hãy học theo thứ tự sau, học cái nào chắc cái đó.
+
+Phần A: Cấu trúc dữ liệu
+
+Mảng (Array), Chuỗi (String) & Bảng băm (Hash Table):
+
+Mảng: Tìm kiếm, sắp xếp, các bài toán con (subarray, subsequence).
+
+Hash Table: Cách hoạt động, ứng dụng để tối ưu tốc độ (trade-off space for time).
+
+Danh sách Liên kết (Linked List):
+
+Singly Linked List, Doubly Linked List.
+
+Các thao tác: thêm, xóa, đảo ngược, tìm cycle.
+
+Ngăn xếp (Stack) & Hàng đợi (Queue):
+
+Hiểu nguyên lý LIFO và FIFO.
+
+Ứng dụng: duyệt cây, xử lý biểu thức, hàng đợi ưu tiên (Priority Queue - Heap).
+
+Cây (Tree) & Cây nhị phân tìm kiếm (BST):
+
+Các khái niệm: node, root, leaf, depth, height.
+
+Duyệt cây: Pre-order, In-order, Post-order, Level-order (BFS).
+
+Cây nhị phân cân bằng (Balanced BST): AVL Tree, Red-Black Tree (hiểu concept là chính).
+
+Đống (Heap):
+
+Cấu trúc Max-Heap và Min-Heap.
+
+Ứng dụng: Tìm phần tử lớn nhất/nhỏ nhất, Heap Sort.
+
+Đồ thị (Graph):
+
+Các khái niệm: vertex, edge, directed/undirected, weighted/unweighted.
+
+Biểu diễn đồ thị: Ma trận kề (Adjacency Matrix), Danh sách kề (Adjacency List).
+
+Phần B: Giải thuật
+
+Các giải thuật Sắp xếp (Sorting Algorithms):
+
+Phải viết được code: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort.
+
+Hiểu ưu nhược điểm và độ phức tạp của từng loại.
+
+Tìm kiếm (Searching Algorithms):
+
+Tìm kiếm nhị phân (Binary Search) - CỰC KỲ QUAN TRỌNG.
+
+Giải thuật Đệ quy (Recursion):
+
+Hiểu tư duy đệ quy, công thức đệ quy, điểm dừng.
+
+Bài tập kinh điển: Fibonacci, Giai thừa, Tháp Hà Nội.
+
+Duyệt đồ thị (Graph Traversal):
+
+Tìm kiếm theo chiều rộng (BFS - Breadth-First Search).
+
+Tìm kiếm theo chiều sâu (DFS - Depth-First Search).
+
+Ứng dụng: Tìm đường, kiểm tra tính liên thông.
+
+Các giải thuật Tham lam (Greedy Algorithms):
+
+Hiểu tư tưởng "chọn tốt nhất ngay tại thời điểm đó".
+
+Bài tập: Bài toán trả tiền thừa, Bài toán cái ba lô phiên bản Greedy.
+
+Tài nguyên:
+
+Khóa học: CS101 - Introduction to Computer Science (các trường đại học trực tuyến), FreeCodeCamp's Algorithms and Data Structures.
+
+Sách: "Grokking Algorithms" (dễ hiểu, minh họa tốt), "Introduction to Algorithms" (CLRS) (kinh điển, nhưng nặng về lý thuyết).
+
+Giai đoạn 3: Ôn luyện & Giải bài tập (4-6 tuần)
+"Học đi đôi với hành". Giai đoạn này bạn dành toàn bộ thời gian để giải bài trên các nền tảng.
+
+Chọn nền tảng:
+
+LeetCode: Tiêu chuẩn vàng cho phỏng vấn. Bắt đầu với LeetCode Easy, thành thạo thì lên Medium. Các bài Hard thường ít gặp.
+
+HackerRank: Bài tập được phân loại tốt theo chủ đề.
+
+VNOI (dành cho người Việt): Các bài thi Olympic Tin Học, rất tốt để rèn luyện tư duy.
+
+Phương pháp:
+
+Tập trung vào các chủ đề Array, String, Hash Table, Linked List, Stack/Queue, Tree, Graph.
+
+Mỗi ngày dành ít nhất 1-2 giờ để giải bài.
+
+Không xem lời giải ngay. Hãy suy nghĩ ít nhất 15-30 phút. Nếu bí, hãy xem "hint" trước.
+
+Sau khi giải xong, xem solution của người khác để học cách tối ưu và code sạch hơn.
+
+Ghi chú lại những bài khó, những pattern thường gặp.
+
+Các kỹ thuật quan trọng cần thành thạo:
+
+Two Pointers (Kỹ thuật hai con trỏ)
+
+Sliding Window (Kỹ thuật cửa sổ trượt)
+
+Binary Search (Tìm kiếm nhị phân trên nhiều loại dữ liệu)
+
+BFS & DFS (Ứng dụng trong cả Tree và Graph)
+
+Backtracking (Quay lui)
+
+Giai đoạn 4: Chủ đề Nâng cao & Hệ thống (2-3 tuần)
+Sau khi đã vững các chủ đề cốt lõi, hãy mở rộng sang các chủ đề phức tạp hơn thường xuất hiện trong phỏng vấn.
+
+Cây và Đồ thị nâng cao:
+
+Trie: Cấu trúc cho bài toán tìm kiếm tiền tố, tự động hoàn thành.
+
+Union-Find (Disjoint Set): Giải quyết bài toán tính liên thông hiệu quả.
+
+Quy hoạch động (Dynamic Programming - DP):
+
+Hiểu tư tưởng "chia để trị" + "lưu lại kết quả đã tính".
+
+Phân biệt Top-Down (Memoization) và Bottom-Up (Tabulation).
+
+Học các bài toán kinh điển: Fibonacci, Dãy con đơn điệu dài nhất, Bài toán cái ba lô, Tổ hợp...
+
+Các giải thuật đồ thị nâng cao:
+
+Thuật toán Dijkstra (tìm đường đi ngắn nhất).
+
+Thuật toán Kruskal, Prim (tìm cây khung nhỏ nhất).
+
+Lời khuyên cuối:
+
+Kiên trì: Học DSA là một hành trình marathon, không phải chạy nước rút.
+
+Viết code ra giấy/whiteboard: Luyện tập kỹ năng này để phỏng vấn.
+
+Tham gia cộng đồng: Thảo luận trên các forum như LeetCode Discuss, Stack Overflow, hoặc các group Facebook về lập trình.
+
+Ôn tập lại: Định kỳ xem lại các chủ đề và bài tập cũ.
+
+Chúc bạn học tập hiệu quả và chinh phục được mọi thử thách phỏng vấn!
