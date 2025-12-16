@@ -164,6 +164,4 @@ Viết code ra giấy/whiteboard: Luyện tập kỹ năng này để phỏng v�
 
 Tham gia cộng đồng: Thảo luận trên các forum như LeetCode Discuss, Stack Overflow, hoặc các group Facebook về lập trình.
 
-Ôn tập lại: Định kỳ xem lại các chủ đề và bài tập cũ.
 
-Chúc bạn học tập hiệu quả và chinh phục được mọi thử thách phỏng vấn!
