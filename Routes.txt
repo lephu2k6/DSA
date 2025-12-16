@@ -162,6 +162,6 @@ Kiên trì: Học DSA là một hành trình marathon, không phải chạy nư�
 
 Viết code ra giấy/whiteboard: Luyện tập kỹ năng này để phỏng vấn.
 
-Tham gia cộng đồng: Thảo luận trên các forum như LeetCode Discuss, Stack Overflow, hoặc các group Facebook về lập trình.
+
 
 
