@@ -1,5 +1,5 @@
 Giai đoạn 1: Nền tảng & Tư duy (1-2 tuần)
-Mục tiêu: Làm quen với độ phức tạp thuật toán và ngôn ngữ lập trình bạn sẽ dùng.
+Mục tiêu: Làm quen với độ phức tạp thuật toán và ngôn ngữ lập trình bạn sẽ dùng
 
 Độ phức tạp thuật toán (Big-O Notation):
 
